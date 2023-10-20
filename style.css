@@ -1,0 +1,55 @@
+*{
+    font-family: 'Playpen Sans', cursive;
+}
+body{
+    background-color:rgb(218, 149, 45);
+    text-align: center;
+}
+img{
+    border: 2px solid rgb(244, 248, 0);
+    display: inline-block;
+    float: left;
+    width: 240px;
+    height: 240px;
+    padding: auto;
+}
+.content-1{
+    display: inline-block;
+    margin-right: 80px;
+    margin: auto;
+    padding: auto;
+    margin-bottom: 24px;
+}
+.content-1 p{
+    width: 60%;
+    padding-top: 80px;
+}
+.content-2{
+    display: inline-block;
+}
+.content-2 img{
+    display: inline-block;
+    float: right;
+    margin: 40px;
+}
+.content-2 p{
+    width: 60%;
+    padding-top: 120px;
+    padding-left: 480px;
+    text-align: right;
+}
+.contact{
+    margin-left: 24px;
+    text-align: center;
+    background-color: lightblue;
+    width: 160px;
+    height: 160px;
+    border-radius: 20px;
+}
+.contact h2{
+    padding-top: 20px;
+    color: red;
+}
+.contact a{
+    color: black;
+}
